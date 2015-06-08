@@ -1,5 +1,3 @@
-package com.laboon;
-
 public class Player {
 
 	private boolean _hasSugar = false;
